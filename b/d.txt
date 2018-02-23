@@ -1,5 +1,13 @@
 d
+<<<<<<< HEAD
 ddddd343434
 fdfdfdfdfdfdf
 fddfdfdfdfdfdfdfd
 fdfdfdfdfdfdfdfdddd
+=======
+d1
+d2
+d3
+d4
+d5
+>>>>>>> f92cb7ef27be26addc381891b4bb86b25e32d1d9

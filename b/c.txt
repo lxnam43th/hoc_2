@@ -1,5 +1,13 @@
 c
+<<<<<<< HEAD
 ccccccccccc
 cccccccccccccc
 cccccccccccccccccc
 ccccccccccccccccccccccc
+=======
+2
+3
+4
+5
+6
+>>>>>>> f92cb7ef27be26addc381891b4bb86b25e32d1d9
