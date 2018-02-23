@@ -10,7 +10,6 @@ bbbbbfdfdfsfs
 sdfsdfsdfsdfsd
 
 fsfsfsfsdf
-<<<<<<< HEAD
 
 dddddddddddddddddddddddd
 
@@ -19,4 +18,3 @@ dddddddddddddddddddddddddddddd
 gffffffffffffff
 gffffffffffffffffff
 gffffffffffffffffffffffffffff
->>>>>>> 6decae57cb081e4b6119ee4cdb4e75f3def23c01
